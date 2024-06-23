@@ -1,1 +1,1 @@
-"# Turkey-Earthquake-Analysis" 
+"# Exploring Earthquake Patterns through DBSCAN Clustering" 
