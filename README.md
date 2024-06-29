@@ -1,1 +1,1 @@
-"# Exploring Earthquake Patterns through DBSCAN Clustering" 
+## Exploring Earthquake Patterns through DBSCAN Clustering 
